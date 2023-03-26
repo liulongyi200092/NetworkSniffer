@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jgoodies-common-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jnetpcap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgoodies-forms-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
